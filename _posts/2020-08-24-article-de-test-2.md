@@ -5,7 +5,7 @@ date: 2020-08-24T20:25:14.127Z
 ---
 # Otis mon scrib !
 
-![otis](/assets/uploads/luffy-one-piece.png "otis")
+[![otis](/assets/uploads/luffy-one-piece.png "otis")](/)
 
 
 
