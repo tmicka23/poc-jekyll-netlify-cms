@@ -8,6 +8,7 @@ backend:
     url: http://localhost:8082/api/v1
     # when accessing the local site from a host other than 'localhost' or '127.0.0.1'
     allowed_hosts: ['192.168.1.18']
+locale: 'fr'
 media_folder: 'assets/uploads'
 collections:
   - name: 'blog'
